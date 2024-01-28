@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm oumalhanaa</h1>                    
+<h1 align="center">Hi 👋, I'm oumalhanaa</h1>    
+<h3 align="center">A passionate mobile developer  from Morocco </h3>  
   
 <!-- Add the following line to include your GIF -->
                                        
-  ![The rebels  - 6](https://github.com/Alou-ani69/Alou-ani69/assets/96358952/dcabb39c-5fd9-4eac-a407-a0a2c5296768)
+  ![The rebels  - 6](https://github.com/Alou-ani69/Alou-ani69/assets/96358952/dcabb39c-5fd9-4eac-a407-a0a2c5296768)                    
+                      
+                      
+                      
+                      
+  
 
                       
   
 
 <!-- Continue with your remaining content -->
 
-<h3 align="center">A passionate mobile developer from Morocco</h3>                    
+                                                                              
+  
+  
+  
                       
                       
                       
