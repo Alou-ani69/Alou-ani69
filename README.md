@@ -16,9 +16,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oumalhanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oumalhanaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oumalhanaa-alouani-a13a69241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumalhanaa-alouani-a13a69241/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19214234/oumalhanaa-alouani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19214234/oumalhanaa-alouani" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/sheis_oumalhanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/sheis_oumalhanaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oumalhanaa-alouani-a13a69241/"                    
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumalhanaa-alouani-a13a69241/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19214234/oumalhanaa-alouani"                    
+                      
+                      
+   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19214234/oumalhanaa-alouani" height="30" width="40" /></a>
+<a href="https://instagram.comsheis_oumalhanaa"                    
+                      
+   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/sheis_oumalhanaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
