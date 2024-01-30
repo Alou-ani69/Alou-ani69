@@ -107,13 +107,34 @@
 
 <p align="left"> <a href="https://twitter.com/oumalhanaa" target="blank"><img src="https://img.shields.io/twitter/follow/oumalhanaa?logo=twitter&style=for-the-badge" alt="oumalhanaa" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs,react,laravel**
+                                                                                                                                           
+  
+  
+  
+  
+  
+  
+  
 
-- 💬 Ask me about **android , frontend ,vscode, android studio code**
+- 💬 Ask me about **android , frontend, databsae  ,vscode, android**                                                            
+  
+  
+  
 
 - 📫 How to reach me **oumalhanaaalouani3@gmail.com**
 
-- ⚡ Fun fact **speedup person**
+                                      
+  
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
