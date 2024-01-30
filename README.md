@@ -116,7 +116,11 @@
   
   
 
-- 💬 Ask me about **android , frontend, databsae  ,vscode, android**                                                            
+- 💬 Ask me about **android , frontend, databsae  ,vscode , flutter**                                                                                                                                            
+  
+  
+  
+  
   
   
   
